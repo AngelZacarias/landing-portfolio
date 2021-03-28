@@ -11,7 +11,6 @@ import {
   Container,
   Row,
   Col,
-  Card,
   UncontrolledTooltip,
 } from "reactstrap";
 
